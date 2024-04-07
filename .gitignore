@@ -2,6 +2,7 @@
 **/.idea
 *.iml
 rebel.xml
+/.idea/
 
 ## backend
 **/target
@@ -11,5 +12,8 @@ rebel.xml
 **/*.lock
 os_del.cmd
 os_del_doc.cmd
+# Editor directories and files
+.idea
 .svn
 derby.log
+
